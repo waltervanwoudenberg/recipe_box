@@ -10,6 +10,7 @@ gem 'redis'
 gem 'haml'
 gem 'paperclip'
 gem 'cocoon'
+gem 'devise'
 
 gem 'sass-rails'
 gem 'jquery-rails'
